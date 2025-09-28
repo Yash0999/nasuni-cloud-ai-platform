@@ -7,7 +7,7 @@ PyPDF2==3.0.1
 python-docx==0.8.11
 requests==2.31.0
 sentence-transformers==2.2.2
-torch>=2.0.0,<2.1.0
+torch>=2.5.0,<2.6.0
 numpy>=1.24.0,<1.25.0
 boto3==1.28.57
 werkzeug==2.3.7
